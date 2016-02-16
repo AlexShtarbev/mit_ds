@@ -5,9 +5,6 @@ import (
 	"log"
 	"encoding/json"
 	"sort"
-	"io"
-	"strconv"
-	"strings"
 )
 
 type KeyValueStore []KeyValue
@@ -44,95 +41,44 @@ func doReduce(
 	// }
 	// file.Close()
 
-	// FIXME
-	output_x, _ := os.Create("output.txt")
-	output, err := os.Create("output" + strconv.Itoa(reduceTaskNumber) + ".txt")
-	if(err != nil) {
-		log.Fatal("could not open file : %s", output)
-	}
-	output.WriteString("reduce task number = " + strconv.Itoa(reduceTaskNumber) + "\n")
-	var s []string
-
+	kvs := make(map[string][]string)
 	for i := 0; i < nMap; i++ {
-		reduceTaskFileName := reduceName(jobName, i, reduceTaskNumber);
-		mergeFileName := mergeName(jobName, reduceTaskNumber)
-
-		output.WriteString(reduceTaskFileName + "\n")// FIXME
-		keyValues, kvErr := decode(reduceTaskFileName)
-
-		if kvErr != nil {
-			log.Fatal("could not decode file : ", reduceTaskFileName, "\nerror = ", kvErr.Error())
+		name := reduceName(jobName, i, reduceTaskNumber)
+		file, err := os.Open(name)
+		if err != nil {
+			log.Fatal("DoReduce: ", err)
 		}
-
-		var keys []string
-
-		for k, _ := range keyValues {
-			keys = append(keys, k)
-			s = append(s, k)
-		}
-		sort.Strings(keys)
-
-		//for _, k := range keys {
-		//	output.WriteString(k + "\n")// FIXME
-		//}
-
-		var file *os.File
-		if _, err := os.Stat(mergeFileName); os.IsNotExist(err) {
-			inFile, err := os.Create(mergeFileName)
-			if(err != nil) {
-				log.Fatal("could not create file : %s", mergeFileName)
+		dec := json.NewDecoder(file)
+		for {
+			var kv KeyValue
+			err = dec.Decode(&kv)
+			if err != nil {
+				break
 			}
-			file = inFile
-		} else {
-			inFile, err := os.OpenFile(mergeFileName, os.O_APPEND|os.O_WRONLY, 0600)
-			if(err != nil) {
-				log.Fatal("could not open file : %s", mergeFileName)
-			}
-			file = inFile
+			kvs[kv.Key] = append(kvs[kv.Key], kv.Value)
 		}
-
-		enc := json.NewEncoder(file)
-		for _, k := range keys{
-			//output.WriteString(k + "\n")// FIXME
-			res := reduceF(k, keyValues[k])
-			kv := KeyValue{k, res}
-			err := enc.Encode(&kv)
-			if(err != nil) {
-				//log.Fatal("could not marshall key/value pair in file %s", file.Name())
-			}
-		}
-
 		file.Close()
 	}
-
-	sort.Strings(s)
-	output_x.WriteString(strings.Join(s, "\n"))
-	output.Close() //FIXME
-}
-
-func decode(fileName string) (map[string][]string, error) {
-	file, err := os.Open(fileName)
-	if (err != nil) {
-		log.Fatal("could not open file : %s", fileName)
-	}
-	defer file.Close()
-
-	decoder := json.NewDecoder(file)
-
-	kvs := make(map[string][]string)
-
-	for {
-		var kv KeyValue
-		err := decoder.Decode(&kv)
-		if err != nil {
-			if (err != io.EOF) {
-				return nil, err
-			}
-			break;
-		}
-
-		kvs[kv.Key] = append(kvs[kv.Key], kv.Value)
+	var keys []string
+	for k := range kvs {
+		keys = append(keys, k)
 	}
 
-	return kvs, nil
+	sort.Strings(keys)
+
+	p := mergeName(jobName, reduceTaskNumber)
+	file, err := os.Create(p)
+
+	if err != nil {
+		log.Fatal("DoReduce: create ", err)
+	}
+
+	enc := json.NewEncoder(file)
+
+	for _, k := range keys {
+		res := reduceF(k, kvs[k])
+		enc.Encode(KeyValue{k, res})
+	}
+
+	file.Close()
 }
