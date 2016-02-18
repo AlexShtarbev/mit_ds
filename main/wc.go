@@ -10,22 +10,6 @@ import (
 	"log"
 )
 
-var kv map[string]int
-func Print(kv map[string]int) {
-	//FIXME
-	fileName := "output.txt"
-
-	output, err := os.Create(fileName)
-	if(err != nil) {
-		log.Fatal("could not create file : %s", fileName)
-	}
-	defer output.Close()
-
-	for key, val := range kv {
-		output.WriteString(key + ": " + strconv.Itoa(val) + "\n")
-	}
-}
-
 // The mapping function is called once for each piece of the input.
 // In this framework, the key is the name of the file that is being processed,
 // and the value is the file's contents. The return value should be a slice of
@@ -38,15 +22,7 @@ func mapF(document string, value string) (res []mapreduce.KeyValue) {
 	words := strings.FieldsFunc(value, splitFunc)
 
 	for _, word := range words {
-		//output.WriteString(word + "\n")
 		res = append(res, mapreduce.KeyValue{word, strconv.Itoa(1)})
-
-		//// FIXME
-		//if _, ok := kv[word]; !ok {
-		//	kv[word] = 1
-		//} else {
-		//	kv[word]++
-		//}
 	}
 
 	return res
@@ -65,9 +41,6 @@ func reduceF(key string, values []string) string {
 		sum += i
 	}
 
-	// FIXME
-	kv[key] = sum
-
 	return strconv.Itoa(sum)
 }
 
@@ -76,9 +49,6 @@ func reduceF(key string, values []string) string {
 // 2) Master (e.g., go run wc.go master localhost:7777 x1.txt .. xN.txt)
 // 3) Worker (e.g., go run wc.go worker localhost:7777 localhost:7778 &)
 func main() {
-	//FIXME
-	kv = make(map[string]int)
-
 	if len(os.Args) < 4 {
 		fmt.Printf("%s: see usage comments in file\n", os.Args[0])
 	} else if os.Args[1] == "master" {
@@ -92,6 +62,4 @@ func main() {
 	} else {
 		mapreduce.RunWorker(os.Args[2], os.Args[3], mapF, reduceF, 100)
 	}
-
-	Print(kv)
 }

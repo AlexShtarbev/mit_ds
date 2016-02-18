@@ -3,6 +3,7 @@ package mapreduce
 import (
 	"fmt"
 	"net/rpc"
+	"strconv"
 )
 
 // What follows are RPC types and methods.
@@ -22,6 +23,10 @@ type DoTaskArgs struct {
 	NumOtherPhase int
 }
 
+func (d DoTaskArgs) String() string {
+	return "job name = " + d.JobName + "\nfile = " + d.File + "\nphase = " +string(d.Phase) + "\ntaskNumber = " + strconv.Itoa(d.TaskNumber) + "\nnum other phase = " + strconv.Itoa(d.NumOtherPhase)+"\n"
+}
+
 // ShutdownReply is the response to a WorkerShutdown.
 // It holds the number of tasks this worker has processed since it was started.
 type ShutdownReply struct {
@@ -39,13 +44,13 @@ type RegisterArgs struct {
 // of a reply structure.
 //
 // call() returns true if the server responded, and false
-// if call() was not able to contact the server. in particular,
+// if call() was not able to contact the server. In particular,
 // reply's contents are valid if and only if call() returned true.
 //
-// you should assume that call() will time out and return an
+// You should assume that call() will time out and return an
 // error after a while if it doesn't get a reply from the server.
 //
-// please use call() to send all RPCs, in master.go, mapreduce.go,
+// Please use call() to send all RPCs, in master.go, mapreduce.go,
 // and worker.go.  please don't change this function.
 //
 func call(srv string, rpcname string,
