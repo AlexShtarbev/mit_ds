@@ -1,0 +1,2121 @@
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 357.611293ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 445.599893ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 359.200356ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 368.587772ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 423.564172ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 364.711897ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 333.089215ms
+1 --> is now Candidate
+[INFO] 1: is now the leader.
+[INFO] 2: got majority
+[INFO] 2: has check interval = 330.199369ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.526559ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 423.063338ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 347.061168ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 403.573864ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 354.142002ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 331.038837ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 414.554396ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 392.448724ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.063652ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 392.306586ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 438.133615ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 431.89064ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 347.203ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 363.457416ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 320.144304ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.108228ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.7426ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 319.142627ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 414.229197ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 349.751395ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 382.166113ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.66814ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 419.674092ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 383.287211ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 449.02764ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 371.611716ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 468.138233ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.167441ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 342.984136ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 399.507829ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 414.573484ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 454.698039ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 396.150707ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 392.097396ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 365.566497ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 361.180539ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 400.6835ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 327.263479ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 377.625582ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 364.276476ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 364.91985ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 383.303183ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 388.982609ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 378.011783ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 377.676707ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 335.233999ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 365.160825ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 416.105588ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 400.58061ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 423.577677ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 394.620201ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 387.610584ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 440.092051ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 332.69942ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 322.154513ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 312.596989ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 442.561681ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 359.085797ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 334.648843ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 384.038875ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 317.829024ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 334.882944ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 365.657214ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 342.578025ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 484.656881ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 316.597254ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 364.450076ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 398.110955ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 320.086961ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 479.06528ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 358.655991ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 433.112531ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 453.618543ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 341.619814ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 374.182462ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 436.492199ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 373.699207ms
+3 --> is now Candidate
+[INFO] 3: is now the leader.
+[INFO] 1: got majority
+[INFO] 1: has check interval = 425.060451ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 379.017492ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 346.03248ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 345.629085ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 426.085934ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 338.072966ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 442.660962ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 390.558539ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 421.538642ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 409.102169ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 487.001008ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 385.591989ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 418.608125ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 385.981939ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 396.183697ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 302.565774ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 378.323496ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 346.91726ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 339.023594ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 329.855823ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 477.619588ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 345.387084ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 398.118487ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 374.32699ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 358.746787ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 407.323999ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 339.524816ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 393.0927ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 352.577693ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 327.072032ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 374.639986ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 373.815305ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 416.250273ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 358.907024ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.804334ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.120545ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 404.158926ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 328.200373ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 340.073425ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 448.029206ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 327.556133ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 393.569781ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 405.189233ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 412.864626ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 387.113439ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 398.626229ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 413.068082ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.572606ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 335.123356ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 350.582017ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 440.097562ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 380.107221ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 324.661602ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 393.113425ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 429.698268ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 381.728103ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 385.437234ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 331.184528ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 340.129508ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 421.568129ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 436.403593ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 372.750118ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 371.927021ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 341.918317ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 466.189142ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 388.147111ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 481.660035ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 404.068851ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 361.621931ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 351.814169ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 438.119162ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 365.591597ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 386.077484ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 466.050299ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 356.618809ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 354.986914ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 410.655437ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 440.2327ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 406.08147ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 400.588595ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 358.808927ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 362.605213ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 359.619718ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 404.81749ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 331.413218ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 390.412744ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 393.827935ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 328.145082ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 329.779307ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 449.131494ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 348.674602ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 332.001575ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 481.229215ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 405.614216ms
+[INFO] 2: got majority
+[INFO] 3: got majority
+[INFO] 3: has check interval = 384.856799ms
+[INFO] 2: has check interval = 316.02024ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 326.257646ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 324.041796ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 315.565167ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 376.107972ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 474.275855ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 312.342992ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 465.797726ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 359.656094ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 336.519613ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 390.751569ms
+0 --> is now Candidate
+[INFO] 0: is now the leader.
+2 --> is now Candidate
+[WARN] Rejecting vote from 0we already have 0 as leader
+[INFO] 2: is now the leader.
+[WARN] Rejecting vote from 2we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 338.209432ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 352.632998ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 424.332822ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 303.109362ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 309.6276ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 331.382807ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 444.029033ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 310.099613ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 334.088945ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 350.121394ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 403.09473ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 478.844878ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 441.646347ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 339.595715ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 346.190018ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 435.349392ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 340.746154ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.020157ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 338.101232ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 446.616573ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 444.003814ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 385.304884ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 368.132515ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 332.779369ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 413.275431ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 355.686349ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 355.646239ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 466.1246ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 338.676862ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 335.119399ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 307.839621ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.554888ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 444.55009ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 345.830639ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 464.317898ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 354.897855ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 468.762661ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 325.656575ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 456.252983ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 374.067308ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 348.647065ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 423.125344ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 323.114398ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 350.635603ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 400.610037ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 394.073059ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 362.244777ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 417.240665ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 395.109351ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 419.745108ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 377.133734ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 370.567121ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 381.232338ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 458.150213ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.021951ms
+0 --> is now Candidate
+[INFO] 0: is now the leader.
+[INFO] 2: got majority
+[INFO] 2: has check interval = 312.944104ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 327.575781ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.108065ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 403.04371ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.045487ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 450.620456ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 396.94455ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 432.634723ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 356.482915ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 458.923422ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 336.574299ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 373.656627ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 386.39742ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 368.149371ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 335.60575ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 354.553023ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 307.334356ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 340.662348ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 361.41261ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 373.190313ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 344.087854ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.354206ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 380.17855ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 368.11456ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 387.35804ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 377.267557ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 389.604296ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 406.09719ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 337.273751ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 367.136065ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 364.083018ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 465.201953ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 447.641273ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 376.112728ms
+[INFO] 0: got majority
+[INFO] 3: got majority
+[INFO] 3: has check interval = 357.565001ms
+[INFO] 0: has check interval = 324.505385ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 437.667902ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 403.711127ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 338.47812ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 474.761296ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 367.801634ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 425.037751ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 318.583857ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 381.293515ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 371.247697ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 385.036347ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 316.315922ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 416.627249ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 372.436645ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 378.776339ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 416.318279ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 438.504249ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 424.34136ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 477.555184ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 370.333782ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 374.620729ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 339.093883ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 366.194996ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 393.139554ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 454.120841ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 344.175781ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 352.62815ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 347.354028ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 308.141972ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 323.028978ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 403.648176ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 394.627391ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 322.268719ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.978939ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 345.084161ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 405.783284ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 354.28617ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 335.542878ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 460.61455ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 456.824518ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 357.024515ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 308.410517ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 351.594195ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 403.169966ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 388.697064ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 386.856308ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 391.071766ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 358.827799ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 336.172963ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 373.594363ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 372.205458ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 395.130047ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 331.041744ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 337.08418ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 326.093865ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 325.602574ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 442.614124ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 322.869217ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 469.10124ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 415.888454ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 381.654208ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 400.758393ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 330.54638ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 429.981474ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 432.372875ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 417.49309ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 432.69399ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 357.162677ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 474.65217ms
+[INFO] 0: got majority
+[INFO] 3: got majority
+[INFO] 3: has check interval = 373.652072ms
+[INFO] 0: has check interval = 434.871387ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 406.850967ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 368.985595ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 342.349173ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 436.471477ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 400.825322ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 323.814529ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 443.987005ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 354.312483ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 370.126424ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.782263ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 359.101751ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 371.67939ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 330.612121ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 357.174251ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 386.011012ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 407.613518ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 475.126806ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 368.454596ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 391.906456ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 424.579634ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 341.080806ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 411.255316ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 341.9986ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 347.115107ms
+4 --> is now Candidate
+[INFO] 4: is now the leader.
+[INFO] 0: got majority
+[INFO] 0: has check interval = 364.842504ms
+0 --> is now Candidate
+[WARN] Rejecting vote from 4we already have 4 as leader
+[INFO] 0: is now the leader.
+[INFO] 1: got majority
+[INFO] 1: has check interval = 347.877896ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 408.107324ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 443.190168ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 437.258594ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 432.361301ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 456.993054ms
+[INFO] 4: got majority
+[INFO] 4: has check interval = 322.787848ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 357.637731ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 351.086789ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 320.090789ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 317.994193ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 399.352719ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.809024ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 367.110352ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 358.521729ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 315.122181ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 374.663991ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 442.418364ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 421.079492ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 343.614511ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 365.555872ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 375.871691ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 344.814627ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 312.60061ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 380.4923ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 386.220637ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 459.830158ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 312.081223ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 430.03091ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 439.615552ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 392.861897ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 384.794306ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 360.73458ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 471.653041ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.108679ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.137794ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 317.724609ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.099173ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 399.751278ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 374.559215ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 417.490667ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 383.267229ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.594384ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 408.121491ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 411.324112ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 361.712984ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 481.815834ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 387.655718ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 381.605938ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 397.743916ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 338.902198ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 373.209161ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 400.825139ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 360.587038ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.208869ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 481.661592ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 348.037456ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 401.288573ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 470.817827ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 352.591087ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 440.360018ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 416.749075ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 333.279965ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.129201ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 383.90698ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 385.228667ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.669397ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 366.106652ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 394.438264ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.130249ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 373.44626ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 486.82957ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 414.597683ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 410.39274ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 345.3074ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 372.180761ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 447.106867ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 387.708588ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 450.45162ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 350.636761ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.014706ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 455.111105ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 374.173817ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 389.103021ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 383.811911ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 475.179939ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 344.566013ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 338.815882ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 344.67808ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 423.634213ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 382.436655ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 449.829227ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 385.166994ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 439.668821ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 410.35008ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 346.744141ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 382.426515ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 448.893601ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 415.766139ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 389.543652ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 398.100226ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 359.110972ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 374.19217ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 438.712148ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 464.121019ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 470.717535ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 398.590103ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 333.396815ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 457.096088ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 367.167343ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 470.630386ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 367.969356ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 329.479747ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 399.451253ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 415.14247ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 343.190839ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 386.308178ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 415.273528ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 443.84539ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 364.78449ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 307.483944ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 363.415067ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 410.716309ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 372.737256ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 330.64172ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 330.125652ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 347.758753ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.589011ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 343.270372ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 488.623423ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 378.082789ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.495245ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 398.914985ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 383.089406ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 393.005626ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 347.623959ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 380.246983ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 323.263914ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 385.135402ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.710743ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 341.710367ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 396.891793ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 354.031824ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.098152ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 343.682999ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 445.829834ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 323.717464ms
+0 --> is now Candidate
+[INFO] 0: is now the leader.
+[INFO] 3: got majority
+[INFO] 3: has check interval = 395.918883ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 397.268463ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 374.122734ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.842262ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 389.806234ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.802072ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 417.718935ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 356.382831ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.163131ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 343.195966ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 320.58598ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 408.534183ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.781809ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 369.669044ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 373.526296ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 404.11731ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 339.611216ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 388.714167ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 328.221839ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.227066ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 442.85226ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 375.333489ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 393.605354ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 311.101467ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.832273ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 407.407502ms
+1 --> is now Candidate
+[INFO] 1: is now the leader.
+[INFO] 1: got majority
+[INFO] 1: has check interval = 443.546698ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 332.552884ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 428.823323ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 353.188156ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 329.958472ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.452139ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 341.14406ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 433.52462ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 358.747975ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 454.243536ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 313.231473ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 411.051476ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 429.620826ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 399.636973ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 350.423557ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 335.144087ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 395.087355ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 371.394262ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 404.743574ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 389.158945ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 350.920526ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 414.828229ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 425.783136ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 309.591673ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 350.085871ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 354.636358ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.629589ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 370.587375ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 387.759894ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 344.346935ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 375.711419ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 348.123625ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 485.618624ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 445.056411ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 430.299696ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 362.126683ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 388.077222ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 387.211759ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 322.94157ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 391.688886ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 380.33116ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 340.386318ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 385.688994ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 322.342035ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 402.453324ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.696239ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 452.720575ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 410.998799ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 442.281475ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 340.505203ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 407.62698ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 409.125098ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 325.667252ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 401.963746ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 396.486491ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 333.264056ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 322.160124ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 405.091966ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 366.30846ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 392.871154ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 318.392446ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 387.268592ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 327.548518ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 367.681374ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 333.64444ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 412.275962ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 378.73987ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 444.534915ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 404.341513ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 436.623621ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 346.410839ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 396.500008ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 339.228586ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 433.176862ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 308.462145ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 402.899839ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 372.074223ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 449.605269ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 316.074555ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 323.505597ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 332.02748ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 322.714625ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 337.059288ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 329.051012ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 329.221414ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 406.636186ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 372.091428ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 423.218505ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 449.358984ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 351.08449ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 361.726077ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 487.895468ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 340.70087ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 351.595177ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 344.182961ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 445.644034ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 365.071403ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 459.008757ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 407.179458ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 403.777384ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 448.999169ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 407.608958ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 321.580379ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 327.625313ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 310.780925ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 444.21681ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 364.511871ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 347.366881ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 457.715598ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 362.179805ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 350.610786ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 434.487702ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 375.086797ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 401.25264ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 379.113448ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 394.285246ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 316.070176ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 459.145924ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 328.104981ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 363.638041ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 309.743281ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 358.397518ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 362.685589ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 383.730334ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 361.961953ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 330.731327ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 376.614226ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 433.7222ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 382.296937ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 376.911601ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 394.353978ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 409.29426ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 432.345083ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 330.02756ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 349.65176ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 421.487009ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 420.207506ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 339.821015ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 437.096898ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 363.379194ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.07828ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 353.639721ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 347.578111ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.84385ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 353.71739ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 454.550752ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 408.198801ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 408.618921ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 378.164412ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.295541ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 381.48073ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 459.63835ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 397.181592ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 402.14528ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 344.516013ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 355.153544ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 439.995341ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 361.576612ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 417.449842ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 394.788657ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 313.899193ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 325.515342ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 340.040429ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 393.459047ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 428.867384ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 399.032868ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 334.951168ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 327.448782ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 331.500989ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 397.957685ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 339.4824ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 373.289356ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 428.693252ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 311.387711ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 410.271983ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 445.591977ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 361.006268ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 403.144161ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 347.295824ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 372.224109ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 396.146814ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 344.260071ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 385.235988ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 403.352973ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 407.504748ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 340.761416ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 362.780817ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 365.870784ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 382.170686ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 439.793369ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 465.651189ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 406.220289ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 407.473201ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 324.248563ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 2: got majority
+[INFO] 2: has check interval = 412.538668ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 356.094212ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 371.20649ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 363.230913ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 315.248826ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 359.111979ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 340.965187ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 340.112105ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 364.582079ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 431.6226ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 370.078713ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 336.729652ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 379.910597ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 323.11599ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 449.967102ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 360.364385ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 341.314651ms
+3 --> is now Candidate
+[INFO] 3: is now the leader.
+[INFO] 0: got majority
+[INFO] 0: has check interval = 330.7404ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 433.752731ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 451.451234ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 424.504406ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 358.48272ms
+1 --> is now Candidate
+[INFO] 1: is now the leader.
+[WARN] Rejecting vote from 2we already have 3 as leader
+[WARN] Rejecting vote from 3we already have 3 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 489.336314ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 339.868681ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 412.731268ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 354.612769ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 439.719053ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 425.650816ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 467.035733ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 405.586591ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 387.808505ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 350.763736ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 352.497313ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 416.608469ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 382.575153ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 419.203994ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 355.05485ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 449.586751ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 346.095791ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 469.895607ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 358.487777ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 368.096551ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 368.597634ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 385.707174ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 338.970777ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 386.395847ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 371.48531ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 374.593298ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 355.129199ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.22742ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 436.090961ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 355.152097ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 359.999206ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 393.744992ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 325.657333ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 380.443085ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 360.082525ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 346.940571ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 371.70064ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 0: got majority
+[INFO] 0: has check interval = 365.342418ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 325.079627ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.127281ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 393.83256ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 324.091441ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 396.951857ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 387.890664ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 349.15416ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 358.80038ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 478.312762ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 469.53654ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 453.708531ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 321.515028ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.669469ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 419.967416ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 336.779535ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 349.27811ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 322.625428ms
+[INFO] 3: got majority
+[INFO] 0: got majority
+[INFO] 3: has check interval = 422.167123ms
+[INFO] 0: has check interval = 466.799048ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 353.201ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 422.039815ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 410.607451ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 345.821817ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 378.811152ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 335.590136ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 438.270741ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 338.727045ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 386.758101ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 388.122382ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 352.48574ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 378.655611ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 383.134078ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 481.667283ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 352.486149ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 365.194415ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 387.59012ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 361.455961ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 362.058983ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 399.560774ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 433.494854ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 303.081558ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 399.936766ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 435.998134ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 467.566589ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 469.368066ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 390.748111ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 348.733977ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 389.596188ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 351.435413ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 425.773882ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 402.645816ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 378.668696ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 437.357139ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 368.137376ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 379.09018ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 392.344921ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 341.545387ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 367.372518ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 452.021749ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 363.370377ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 344.149633ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 316.525431ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 420.143543ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 416.297278ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 330.961736ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 345.149104ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 435.520271ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 330.694457ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 314.698237ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.218161ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 329.094084ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 327.212628ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 372.570471ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 446.911059ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 420.119091ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 438.339514ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 334.891861ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 417.234189ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 303.570437ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 318.99189ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 374.711039ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[WARN] Rejecting vote from 4we already have 2 as leader
+[INFO] 3: got majority
+[INFO] 3: has check interval = 385.118398ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 352.613259ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 439.11751ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 326.562892ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 348.394608ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 358.323557ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 367.302658ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 353.538504ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 394.299107ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 414.584802ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 390.679779ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 367.111486ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 320.899927ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 435.040746ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 338.354314ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 404.22099ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 342.123651ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 411.277174ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 423.166989ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 351.604842ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 424.600997ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 430.585738ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 384.210427ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 464.252669ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 330.55718ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 312.451882ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 457.89777ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 333.894855ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 401.727896ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 391.947912ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 343.19595ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 396.304407ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 376.71348ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 432.844147ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 466.628791ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 328.780744ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 339.706102ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 344.687329ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 434.123505ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 393.137499ms
+[WARN] 0: Election timeout reached: restarting election.
+[WARN] Rejecting vote from 4we already have 2 as leader
+[WARN] Rejecting vote from 1we already have 2 as leader
+[WARN] Rejecting vote from 2we already have 2 as leader
+[WARN] Rejecting vote from 3we already have 2 as leader
+[INFO] 1: got majority
+[INFO] 1: has check interval = 390.248065ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 409.957487ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 429.301358ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 350.593573ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 487.227012ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 387.606581ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 326.208354ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 366.73589ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 464.476249ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 368.615311ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 384.032908ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 348.184478ms
+[INFO] 3: got majority
+[INFO] 3: has check interval = 344.087463ms
+[INFO] 2: got majority
+[INFO] 2: has check interval = 361.109422ms
+[INFO] 0: got majority
+[INFO] 0: has check interval = 340.555756ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 381.525893ms
+[INFO] 1: got majority
+[INFO] 1: has check interval = 344.085687ms
