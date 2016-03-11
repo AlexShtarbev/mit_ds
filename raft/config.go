@@ -20,6 +20,7 @@ import "time"
 import (
 	"fmt"
 	//"strconv"
+	"strconv"
 )
 
 func randstring(n int) string {
@@ -172,9 +173,12 @@ func (cfg *config) start1(i int) {
 
 			if err_msg != "" {
 				log.Fatalf("apply error: %v\n", err_msg)
+				printOut("[start1] apply error:" + err_msg)
 				cfg.applyErr[i] = err_msg
 				// keep reading after error so that Raft doesn't block
 				// holding locks...
+			} else {
+				printOut("[start1] successfully received log")
 			}
 		}
 	}()
@@ -373,6 +377,7 @@ func (cfg *config) one(cmd int, expectedServers int) int {
 	for time.Since(t0).Seconds() < 10 {
 		// try all the servers, maybe one is the leader.
 		index := -1
+		printOut("[INFO] Test Raft: one(): command = " + strconv.Itoa(cmd))
 		for si := 0; si < cfg.n; si++ {
 			starts = (starts + 1) % cfg.n
 			var rf *Raft
@@ -390,6 +395,8 @@ func (cfg *config) one(cmd int, expectedServers int) int {
 			}
 		}
 
+		printOut("[INFO] Test Raft: one(): peer found = " + strconv.Itoa(starts))
+		printOut("[INFO] Test Raft: one(): index = " + strconv.Itoa(index))
 		if index != -1 {
 			// somebody claimed to be the leader and to have
 			// submitted our command; wait a while for agreement.
@@ -397,8 +404,19 @@ func (cfg *config) one(cmd int, expectedServers int) int {
 			for time.Since(t1).Seconds() < 2 {
 				nd, cmd1 := cfg.nCommitted(index)
 				if nd > 0 && nd >= expectedServers {
+					printOut("[INFO] Test Raft: one(): command match count = " + strconv.Itoa(nd) )
 					// committed
+					// FIXME
+					f, fok := cmd1.(int)
+					var res string
+					if (fok && f == cmd)  {
+						res = "true"
+					} else {
+						res = "false"
+					}
+					printOut("[INFO] Test Raft: one(): command committed. Result = " + res)
 					if cmd2, ok := cmd1.(int); ok && cmd2 == cmd {
+						//printOut("[INFO] Test Raft: one(): command match ")
 						// and it was the command we submitted.
 						return index
 					}

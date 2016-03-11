@@ -47,6 +47,14 @@ func min(a, b uint64) uint64 {
 	return b
 }
 
+// max returns the maximum.
+func max(a, b uint64) uint64 {
+	if a >= b {
+		return a
+	}
+	return b
+}
+
 // backoff is used to compute an exponential backoff
 // duration. Base time is scaled by the current round,
 // up to some maximum scale factor.
@@ -59,4 +67,13 @@ func backoff(base time.Duration, round, limit uint64) time.Duration {
 
 	return base
 
+}
+
+// asyncNotifyCh is used to do an async channel send
+// to a single channel without blocking.
+func asyncNotifyCh(ch chan struct{}) {
+	select {
+	case ch <- struct{}{}:
+	default:
+	}
 }

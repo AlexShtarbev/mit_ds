@@ -44,6 +44,7 @@ func TestInitialElection(t *testing.T) {
 }
 
 func TestReElection(t *testing.T) {
+	flushOut()//FIXME
 	servers := 3
 	cfg := make_config(t, servers, false)
 	defer cfg.cleanup()
@@ -87,6 +88,8 @@ func TestReElection(t *testing.T) {
 }
 
 func TestBasicAgree(t *testing.T) {
+	// FIXME
+	flushOut()
 	servers := 5
 	cfg := make_config(t, servers, false)
 	defer cfg.cleanup()
@@ -110,7 +113,6 @@ func TestBasicAgree(t *testing.T) {
 }
 
 func TestFailAgree(t *testing.T) {
-	flushOut()//FIXME
 	servers := 3
 	cfg := make_config(t, servers, false)
 	defer cfg.cleanup()
@@ -142,6 +144,7 @@ func TestFailAgree(t *testing.T) {
 }
 
 func TestFailNoAgree(t *testing.T) {
+	flushOut()//FIXME
 	servers := 5
 	cfg := make_config(t, servers, false)
 	defer cfg.cleanup()
